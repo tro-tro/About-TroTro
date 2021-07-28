@@ -1,5 +1,11 @@
 # About-TroTro  :oncoming_bus:
-About us
+
+
+
+
+![trotro](https://user-images.githubusercontent.com/47186373/127316962-07961409-6a04-4a97-a1c0-9f45c31358ac.png)
+
+## About us
 We are technologically startup focused on disrupting the public transportation sector with a focus on the trotro space. We want to become the Uber of Trotros in West Africa but better... 
 
 The name of our mobile application is Trotro and what it does is to allow riders to select their destination points, book seats on the bus :minibus:, make digital payments via mobile money to confirm their seat, make music/documentary requests to be played whilst on the ride,  and enjoy safe, convenient and uninterrupted journeys from their pickup location to their destinations. 
